@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "D2 공과대학 1호관": {
+      "style": "brick",
+      "wall": "#874b3e",
+      "glass": "#4f6b7a",
+      "frame": "#d8d4cc"
+    },
+    "E1 학생회관": {
+      "style": "stone",
+      "wall": "#c3c8cd",
+      "glass": "#34404c",
+      "frame": "#2a5a8f"
+    },
+    "70주년기념관": {
+      "style": "glass",
+      "wall": "#d9dcdf",
+      "glass": "#4f7f8f",
+      "frame": "#c8ced2"
+    },
+    "컨벤션관": {
+      "style": "glass",
+      "wall": "#d6dbe2",
+      "glass": "#3f6f8f",
+      "frame": "#9aa3ad"
+    },
+    "A1 대학본부": {
+      "style": "stone",
+      "wall": "#dfe3ea",
+      "glass": "#2f5f7a",
+      "frame": "#b0703e"
+    },
+    "D4 공과대학 3호관": {
+      "style": "glass",
+      "wall": "#e3dcd8",
+      "glass": "#4f8aa0",
+      "frame": "#e8e8e6"
+    },
+    "도서관 제3동호": {
+      "style": "concrete",
+      "wall": "#c4c6c8",
+      "glass": "#2f3a42",
+      "frame": "#7d848a"
+    },
+    "국립순천대학교 박물관": {
+      "style": "stone",
+      "wall": "#e2e1e3",
+      "glass": "#3e5560",
+      "frame": "#565663"
+    },
+    "산학협력관": {
+      "style": "glass",
+      "wall": "#b7bcc0",
+      "glass": "#3c6475",
+      "frame": "#737675"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
